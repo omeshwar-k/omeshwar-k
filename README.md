@@ -20,5 +20,7 @@ Always excited to learn and try out new ideas!
 
 - 📫 Contact Me
 
-LinkedIn: https://www.linkedin.com/in/omeshwar-k
-Email: omeshwar3537@gmail.com
+ LinkedIn: https://www.linkedin.com/in/omeshwar-k
+ Email: omeshwar3537@gmail.com
+
+Excited to connect and collaborate!
