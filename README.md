@@ -4,7 +4,7 @@ I’m learning and exploring Machine Learning and Python.
 I enjoy building small projects, experimenting with new ideas, and improving my coding skills every day.
 
 
-##🏆 My Journey
+## 🏆 My Journey
 
 Started learning Python and Machine Learning . 
 Now, I’m working on small projects to apply my skills and gain hands-on experience.  
@@ -12,7 +12,7 @@ Always excited to learn and try out new ideas!
 
 ---
 
-##💡 What I’m Learning
+## 💡 What I’m Learning
 
 - Python libraries for Machine Learning  
 - Data analysis and visualization  
