@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Omeshwar K 👋
 
-<!--
-**omeshwar-k/omeshwar-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning and exploring Machine Learning and Python.  
+I enjoy building small projects, experimenting with new ideas, and improving my coding skills every day.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 My Journey
+
+Started learning Python and Machine Learning . 
+Now, I’m working on small projects to apply my skills and gain hands-on experience.  
+Always excited to learn and try out new ideas!
+
+---
+
+## 💡 What I’m Learning
+
+- Python libraries for Machine Learning  
+- Data analysis and visualization  
+- Building AI projects from scratch
+
+- 📫 Contact Me
+
+LinkedIn: https://www.linkedin.com/in/omeshwar-k
+Email: omeshwar3537@gmail.com
