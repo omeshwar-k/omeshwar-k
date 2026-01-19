@@ -1,6 +1,6 @@
 ## Hi, I'm Omeshwar K 👋
 
-I’m learning and exploring Machine Learning and Python.  
+I’m learning and exploring AI, Machine Learning and Python.  
 I enjoy building projects, experimenting with new ideas, and improving my coding skills every day.
 
 
