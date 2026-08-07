@@ -23,6 +23,7 @@
 - 🎓 B.Tech in **Artificial Intelligence & Data Science**, 2026
 - 🧠 Comfortable across supervised & unsupervised learning, neural networks (CNN, RNN, LSTM), and NLP pipelines
 - 🌱 Currently exploring **Generative AI** — prompt engineering and working with LLMs
+- 🎯 Passionate about applying ML/DL to solve real-world problems
 
 <br/>
 
@@ -81,13 +82,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
-<br/>
-
-## 📜 Certifications
-
-![Coursera](https://img.shields.io/badge/Coursera-Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![AWS Academy](https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
 
