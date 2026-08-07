@@ -11,7 +11,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=4FD1C5&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -21,11 +20,9 @@
 
 > Machine Learning Engineer with hands-on experience across the full ML lifecycle — from EDA and data cleaning to training, evaluating, and deploying deep learning and computer vision models. Currently exploring Generative AI through prompt engineering and LLMs.
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** — Dhanalakshmi Srinivasan Engineering College, 2026
+- 🎓 B.Tech in **Artificial Intelligence & Data Science**, 2026
 - 🧠 Comfortable across supervised & unsupervised learning, neural networks (CNN, RNN, LSTM), and NLP pipelines
 - 🌱 Currently exploring **Generative AI** — prompt engineering and working with LLMs
-- 💬 Ask me about computer vision, deep learning architectures, or NLP
-- ⚡ For fun: I optimize competitive programming problems in Python *and* C++ — including `__int128` overflow handling for O(n log V) binary search
 
 <br/>
 
@@ -87,31 +84,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-> Animates automatically once the snake-generator GitHub Action is added to this repo (one-time setup — happy to walk you through it).
-
-<br/>
-
 ## 📜 Certifications
 
 ![Coursera](https://img.shields.io/badge/Coursera-Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
@@ -125,7 +97,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 <br/><br/>
 
